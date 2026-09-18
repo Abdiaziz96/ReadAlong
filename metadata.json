@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Reading Session",
+  "description": "Interactive reading session Progressive Web App prototype with collaborative Teacher vs Student views, confusion heatmaps, highlights, and real-time Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
